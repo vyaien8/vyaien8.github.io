@@ -4,8 +4,8 @@
     - DiE or file command to check file type
     - Windows EXE/DLL:
         - Check packer
-        - Native: CFF, IDA, HxD, python ...
-        - .NET: dnSpy -> export to VS and refactor
+        - Native: CFF, IDA, HxD, python, x64dbg ...
+        - .NET: dnSpyEx, de4dotEx -> export to VS and refactor
     - ELF:
         - IDA, debug, python
     - Office:
