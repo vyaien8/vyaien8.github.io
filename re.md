@@ -17,7 +17,7 @@
     - Add flirt sig (shift F5), add til lib (shift F11)
     - Plugin
         - Basic: cape, lazy, flare
-        - Advance: hrtng, D810, floss, uEmu
+        - Advance: hrtng, D810, floss
     - Struct (shift F9), rename (N), xref (X), make code (C), make function (P), undefine (U), Ascii string (A), Unicode (shift U), check {} (shift 5)
     - IDA python
 
